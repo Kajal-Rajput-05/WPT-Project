@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "65a8c0b4eb70031ac7d4d2ee"
+  },
+  "CategoryName": "Fruits",
+  "name": "Mango",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTQbVJGPpq-3dSHYRtEV0zlrBMRzaGowLFEusO57s9C-A&s",
+  "price": "220",
+  "description": "Our commitment to organic farming guarantees that you receive fresh, pesticide-free fruits that are as healthy as they are delicious."
+},
+{
+  "_id": {
+    "$oid": "65a8c0b4eb70031ac7d4d2ef"
+  },
+  "CategoryName": "Fruits",
+  "name": "Papaya",
+  "img": "https://img1.exportersindia.com/product_images/bc-full/2023/2/11669562/fresh-papaya-1675937444-6754857.jpeg",
+  "price": "200",
+  "description": "Enjoy the tropical delight of our organic papayas. Each fruit is carefully cultivated to ensure a rich, sweet flavor and vibrant color. "
+},
+{
+  "_id": {
+    "$oid": "65a8c0b4eb70031ac7d4d2f0"
+  },
+  "CategoryName": "Fruits",
+  "name": "Strawbery",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKqAK0mkVP8YBH1wkO8ftlR7jnyQkDvuISAr6zbbkAyA&s",
+  "price": "320",
+  "description": "Savor the vibrant, sun-kissed flavor of our organic strawberries. Grown in nutrient-rich soil and picked at the peak of ripeness, these strawberries are exceptionally sweet."
+},
+{
+  "_id": {
+    "$oid": "65a8c0b4eb70031ac7d4d2f1"
+  },
+  "CategoryName": "Fruits",
+  "name": "Water-Melon",
+  "img": "https://thumbs.dreamstime.com/b/slice-watermelon-hd-k-wallpaper-stock-photographic-image-slice-watermelon-hd-k-wallpaper-stock-photographic-image-283197290.jpg",
+  "price": "300",
+  "description": "our watermelons are a refreshing and hydrating choice for any occasion. Grown without harmful pesticides."
+},
+{
+  "_id": {
+    "$oid": "65a8c0b4eb70031ac7d4d2f2"
+  },
+  "CategoryName": "Fruits",
+  "name": "KiWi",
+  "img": "https://images.unsplash.com/photo-1610917040803-1fccf9623064?q=80&w=1000&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxzZWFyY2h8M3x8a2l3aXxlbnwwfHwwfHx8MA%3D%3D",
+  "price": "260",
+  "description": "These luscious fruits are packed with vitamins and antioxidants, harvested at the perfect time to ensure maximum freshness and flavor."
+},
+{
+  "_id": {
+    "$oid": "65a8c0b4eb70031ac7d4d2f3"
+  },
+  "CategoryName": "Fruits",
+  "name": "Cherry",
+  "img": "https://i.pinimg.com/736x/fa/8e/64/fa8e64894d16a4979d3028849e3c5cd0.jpg",
+  "price": "220",
+  "description": "Experience the delightful taste of our fresh, organic cherries. These plump, ruby-red gems are harvested with care to provide you with a juicy."
+},
+{
+  "_id": {
+    "$oid": "65a8c0b4eb70031ac7d4d2f4"
+  },
+  "CategoryName": "Vegetables",
+  "name": "Mushroom",
+  "img": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR1NbQs4clyIdvBmKhh2EYVNwjn2uSqBrxo3Cwwfowdfg&s",
+  "price": "200",
+  "description": "Mushrooms from our farms are grown in carefully controlled, organic environments without the use of synthetic fertilizers."
+},
+{
+  "_id": {
+    "$oid": "65a8c0b4eb70031ac7d4d2f5"
+  },
+  "CategoryName": "Vegetables",
+  "name": "Broccoli",
+  "img": "https://i.pinimg.com/736x/ac/c9/b1/acc9b18835f34f62fd9d507fe93c760b.jpg",
+  "price": "260",
+  "description": "Our broccoli is cultivated using organic farming practices that avoid harmful chemicals, providing you with a fresh, safe, and nutritious product."
+},
+{
+  "_id": {
+    "$oid": "65a8c0b4eb70031ac7d4d2f6"
+  },
+  "CategoryName": "Vegetables",
+  "name": "Brinjal",
+  "img": "https://nellai.co.in/wp-content/uploads/2023/05/Brinjal-Kathirikkai.jpg",
+  "price": "300",
+  "description": "Our brinjals are grown using organic methods, ensuring they are free from synthetic pesticides and GMOs."
+},
+{
+  "_id": {
+    "$oid": "65a8c0b4eb70031ac7d4d2f7"
+  },
+  "CategoryName": "Vegetables",
+  "name": "Capsicum",
+  "img": "https://www.familygarden.in/image/cache/catalog/Vegetables/green-capsicum-02-1000x1000.png",
+  "price": "170",
+  "description": "Our capsicums are cultivated organically, guaranteeing they are free from chemical residues and grown in a sustainable manner."
+},
+{
+  "_id": {
+    "$oid": "65a8c0b4eb70031ac7d4d2f8"
+  },
+  "CategoryName": "Salad",
+  "name": "Greek Salad",
+  "img": "https://www.mygreekdish.com/wp-content/uploads/2013/05/Traditional-Greek-Salad-recipe-Horiatiki-Xoriatiki-1-scaled.jpg",
+  "price": "120",
+  "description": "Indulge in the freshness of Mediterranean flavors with our Greek Salad. Packed with vibrant colors and robust flavors, it's a nutritious delight."
+},
+{
+  "_id": {
+    "$oid": "65a8c0b4eb70031ac7d4d2f9"
+  },
+  "CategoryName": "Salad",
+  "name": "Chicken salad",
+  "img": "https://images.immediate.co.uk/production/volatile/sites/30/2013/05/Next-level-caesar-salad-1efacdc.jpg?quality=90&resize=556,505",
+  "price": "150",
+  "description": "Savor the goodness of lean protein with our Chicken Salad. Tender, grilled chicken breast, paired with crisp lettuce, crunchy vegetable."
+}]
